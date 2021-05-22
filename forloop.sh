@@ -2,5 +2,5 @@
 for file in `ls *.txt`
 do
 	echo $file
-        echo "$file local changes"
+        echo "$file is in local changes"
 done
