@@ -4,3 +4,4 @@ do
 	echo $file
         echo "$file is in local changes"
 done
+#remote
