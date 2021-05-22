@@ -4,4 +4,5 @@ do
 	echo $file
         echo "$file is in local changes"
 done
-#good comment
+#good comment local
+#remote
